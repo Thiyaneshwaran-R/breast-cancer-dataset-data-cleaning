@@ -23,7 +23,7 @@ This notebook focuses on data cleaning, inspection, and basic exploration of the
   - Replaced outliers with upper/lower thresholds or appropriate values
 
 - ✅ **Visualized data:**
-  - Created **histograms** for key numeric columns using `Matplotlib` or `Seaborn`
+  - Created **histograms** for key numeric columns using `Seaborn`
 
 ---
 
